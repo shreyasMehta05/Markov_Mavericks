@@ -6,8 +6,8 @@
 
 ## 👤 Project Information
 
-**Author**: Shreyas Mehta  
-**Course**: Stochastic Processes & Queueing Theory  
+**Author**: Shreyas Mehta, Saksham Chitkara, Aditya Gaur, Aryan Chugh, Swam Singla, Hrishiraj
+**Course**: Performance modeling of Computer Systems 
 **Domain**: Performance Modeling & Operations Research
 
 ![Waiting Time Distribution](Distribution_of_Waiting_times.png)
