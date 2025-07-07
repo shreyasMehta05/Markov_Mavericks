@@ -6,7 +6,7 @@
 
 ## 👤 Project Information
 
-**Author**: Shreyas Mehta, Saksham Chitkara, Aditya Gaur, Aryan Chugh, Swam Singla, Hrishiraj
+**Author**: Shreyas Mehta, Saksham Chitkara, Aditya Gaur, Aryan Chugh, Swam Singla, Hrishiraj Mitra
 **Course**: Performance modeling of Computer Systems 
 **Domain**: Performance Modeling & Operations Research
 
